@@ -21,3 +21,4 @@ sklearn==0.0.post1
 statsmodels==0.14.0
 streamlit==1.27.0
 xgboost==1.7.5
+sklearn== (0.0.post1)
