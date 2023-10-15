@@ -7,7 +7,6 @@ import pandas as pd
 import streamlit as st
 import pandas as pd
 import pickle
-import sklearn
 #model = joblib.load('Rf_model.pkl')
 # Load the saved Random Forest model
 #model = joblib.load('Rf_model.pkl')
