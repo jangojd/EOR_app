@@ -89,7 +89,7 @@ The application provides:
 ## Screenshots
 
 ### Main Interface
-![App Interface](https://github.com/jangojd/EOR_app/blob/470778f5c141217c7fb38fc24e33271debba9159/Screenshot%20(9).png)
+![App Interface](https://github.com/jangojd/EOR_app/blob/a78462b5b316399a9c146a641b7d3ee509de058a/Screenshot%20(9).png)
 
 
 > 
