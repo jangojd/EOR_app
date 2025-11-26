@@ -136,5 +136,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 
 ---
-
-**Note**: Ensure that the `trained_model.sav` file is present in the project directory before running the application.
