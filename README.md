@@ -1,6 +1,8 @@
 # EOR Method Prediction App
 
 A machine learning-powered web application built with Streamlit for predicting Enhanced Oil Recovery (EOR) methods based on reservoir characteristics.
+## Try App
+app:https://eorapp-v8fshj4v55sjkxmumhi2c6.streamlit.app/
 
 ## Overview
 
